@@ -1,0 +1,13 @@
+prefix=E:/pr5/RAG_PROJECT-main/renv/Library
+exec_prefix=E:/pr5/RAG_PROJECT-main/renv/Library
+libdir=E:/pr5/RAG_PROJECT-main/renv/Library/lib
+sharedlibdir=E:/pr5/RAG_PROJECT-main/renv/Library/lib
+includedir=E:/pr5/RAG_PROJECT-main/renv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
