@@ -49,4 +49,4 @@ Once the Docker container is running, open your web browser and go to:
 http://localhost:8000
 ```
 
-From here, you can upload documents, get summaries, and chat with your documents!
+From here, you can upload documents, get summaries, and chat with your documents! Happy coding.
